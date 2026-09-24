@@ -1,0 +1,6 @@
+{
+  "name": "Verdant Estate & Property Care",
+  "description": "Reliable cleaning, decorating, gardening and property maintenance services for homes, landlords and businesses across the UK.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
